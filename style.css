@@ -121,3 +121,103 @@ li a{
     margin-top: -150px;
 }
 
+footer{
+    padding-top: 1200px;
+}
+/* li a {
+    text-decoration: none;
+    color: black;
+    cursor: wait;
+}
+
+ol {
+    list-style-type: none;
+    padding: 5px;
+}*/
+
+i {
+    color: black;
+    /* padding-top: 1230px; */
+} 
+
+.address, p, h6 {
+    color: rgba(212, 105, 16, 0.87);
+}
+
+h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.address {
+    margin-left: 10%;
+}
+
+.navbr {
+    margin-left: 10%;
+}
+
+.eco {
+    margin-left: 10%;
+}
+
+.container {
+    background-color: rgba(235, 202, 57, 0.938);
+    text-align: center;
+    width: 7%;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    position: relative;
+    margin: auto;
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+}
+
+h1 {
+    color: rgb(240, 102, 10);
+}
+
+.everything {
+    display: flex;
+}
+
+#sub {
+    background-color: rgb(240, 102, 10);
+    color: white;
+    padding: 10px;
+    width: 500px;
+}
+
+.two {
+    margin-left: 6%;
+}
+
+.one {
+    margin-left: 20%;
+}
+
+#Room {
+    width: 500px;
+    padding: 20px;
+    font-size: 14px;
+}
+
+.date {
+    position: absolute;
+    right: 35%;
+    top: 10%;
+}
+
+.month {
+    position: absolute;
+    right: 35%;
+    top: 18%;
+}
